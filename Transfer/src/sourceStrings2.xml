@@ -1,0 +1,17 @@
+<resources>
+    
+    <!--    总会员数-->
+    <!--    已激活数-->
+    <!--    待核准-->
+    <string name="title_total_member">会员总数</string>
+    <string name="title_total_active">已激活数</string>
+    <string name="title_wait_approve">待核准</string>
+
+    <!--    总笔数-->
+    <!--    总金额-->
+    <!--    平均消费金额-->
+    <string name="title_order_num">总笔数</string>
+    <string name="title_total_amount">总金额</string>
+    <string name="title_average_consumption">平均消费金额</string>
+    <!--  4.2.6 end  -->
+</resources>
